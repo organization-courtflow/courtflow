@@ -1,0 +1,16 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="40" fill="#F8F5EF"/>
+  <g transform="translate(72 58) scale(.58)">
+    <rect width="512" height="512" rx="96" fill="#FFFFFF"/>
+    <path d="M112 366H400" stroke="#4A2F20" stroke-width="28" stroke-linecap="round"/>
+    <path d="M162 324H350" stroke="#8B5A33" stroke-width="24" stroke-linecap="round"/>
+    <path d="M256 114V324" stroke="#4A2F20" stroke-width="24" stroke-linecap="round"/>
+    <path d="M162 170H350" stroke="#4A2F20" stroke-width="24" stroke-linecap="round"/>
+    <path d="M192 170L138 278H246L192 170Z" fill="#FFFDF8" stroke="#A57445" stroke-width="18" stroke-linejoin="round"/>
+    <path d="M320 170L266 278H374L320 170Z" fill="#FFFDF8" stroke="#A57445" stroke-width="18" stroke-linejoin="round"/>
+    <path d="M224 114C224 96.3269 238.327 82 256 82C273.673 82 288 96.3269 288 114C288 131.673 273.673 146 256 146C238.327 146 224 131.673 224 114Z" fill="#B58450"/>
+    <path d="M222 394H290" stroke="#A57445" stroke-width="22" stroke-linecap="round"/>
+  </g>
+  <text x="410" y="180" fill="#221711" font-family="Arial, sans-serif" font-size="74" font-weight="700">CourtFlow AI</text>
+  <text x="414" y="248" fill="#75685F" font-family="Arial, sans-serif" font-size="32">상담 전 사건 정리와 쟁점 파악을 돕는 도구</text>
+</svg>
